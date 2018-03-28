@@ -1,9 +1,9 @@
-# Magisk Module Template
+# OnePlus 2 Button Switch
 
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
+This Module will switch your Recent and Back Buttons on your OnePlus 2. This Module is only tested on a OnePlus 2. Don't use it on any other Device.
 
-**Please update `README.md` if you want to submit your module to the online repo!**
+Use at your own risk.
 
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+## Version 1
 
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
+Initial Release
