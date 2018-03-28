@@ -41,7 +41,8 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "    OnePlus 2 Button Switch    "
+  ui_print "    by @Scherzengel on XDA     "
   ui_print "*******************************"
 }
 
