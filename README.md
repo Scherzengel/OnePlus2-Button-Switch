@@ -4,6 +4,6 @@ This Module will switch your Recent and Back Buttons on your OnePlus 2. This Mod
 
 Use at your own risk.
 
-## Version 1
+## Current Version
 
-Initial Release
+### Version 1 - Initial Release
